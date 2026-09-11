@@ -190,6 +190,10 @@ plaatsing, niet van smaak.</p>
 zijden boeketten, kunstboeketten, droogboeketten en vazen in beperkte oplage. De collectie
 staat op
 <a class="uit" href="https://bloomzy.nl/collectie" rel="nofollow noopener" target="_blank">https://bloomzy.nl/collectie</a>.</p>
+<p>Wie gericht zoekt, komt bij de zijden boeketten uit op
+<a class="uit" href="https://bloomzy.nl/collectie/zijden-boeketten" rel="nofollow noopener" target="_blank">https://bloomzy.nl/collectie/zijden-boeketten</a>
+en bij de kunstboeketten op
+<a class="uit" href="https://bloomzy.nl/collectie/kunstboeketten" rel="nofollow noopener" target="_blank">https://bloomzy.nl/collectie/kunstboeketten</a>.</p>
 </div>
 </div>
 """ % {"held": theme.HELD_SVG, "inhuis": indexlijst(inhuis),
